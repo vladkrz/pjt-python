@@ -1,0 +1,34 @@
+Pacotes utilizados:
+- OS version: Mx Linux 23.1 / Debian Bookworm
+- python3.11-dev
+- GTK3: 
+    -> libgtk-3-0 
+    -> libgtk-3-dev
+    -> gtk-3-examples
+- GStreamer: 
+    -> libgstreamer1.0-dev
+    -> libgstreamer-plugins-base1.0-dev
+    -> libgstreamer-plugins-bad1.0-dev
+    -> gstreamer1.0-plugins-base
+    -> gstreamer1.0-plugins-good
+    -> gstreamer1.0-plugins-bad
+    -> gstreamer1.0-plugins-ugly
+    -> gstreamer1.0-libav
+    -> gstreamer1.0-tools
+    -> gstreamer1.0-x
+    -> gstreamer1.0-alsa gstreamer1.0-gl
+    -> gstreamer1.0-gtk3
+    -> gstreamer1.0-qt5
+    -> gstreamer1.0-pulseaudio
+- Freeglut3:
+    -> freeglut3_2.8.6.1-6_amd64.deb
+    -> freeglut3-dev_2.8.6.1-6_amd64.deb
+- libjpeg-tools / libjpeg-dev
+- libpng-tools / libpng-dev
+- libtiff-tools / libtiff-dev
+- SDL:
+    -> libsdl2-2.0-0
+    -> libsdl2-dev
+-> libnotify-bin  libnotify-dev
+-> libsm6 libsm-dev
+-> wxPython-4.2.1
