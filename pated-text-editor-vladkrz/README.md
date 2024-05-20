@@ -1,5 +1,7 @@
+- OS version: 
+    -> Mx Linux 23.1 / Debian Bookworm
+    -> Windows 11 Pro Version 23H2 (OS Build 22631.3593)
 Pacotes utilizados:
-- OS version: Mx Linux 23.1 / Debian Bookworm
 - python3.11-dev
 - GTK3: 
     -> libgtk-3-0 
@@ -31,4 +33,4 @@ Pacotes utilizados:
     -> libsdl2-dev
 -> libnotify-bin  libnotify-dev
 -> libsm6 libsm-dev
--> wxPython-4.2.1
+-> wxPython-4.2.1 (Windows e Linux)
