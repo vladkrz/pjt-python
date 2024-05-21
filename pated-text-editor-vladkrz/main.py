@@ -7,7 +7,7 @@ class MyFrame(wx.Frame):
         self.control = wx.TextCtrl(self, style=wx.TE_MULTILINE)
         self.Show(True)
 
-
+#teste
 # Cria um novo app e não redireciona o stdout/stderr para a janela
 app = wx.App(False)
 # Um frame é uma janela de nivel superior. 
